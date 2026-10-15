@@ -1,5 +1,5 @@
 Proje Yazarı: Yağız Mutlu
-# Kod_asistanim
+# Proje Adı: Kod_asistanim v0.1
 ## Projenin Amaci: Kullanıcılara günlük işlerinde (hesaplama,selamlama vb.) işlerinde yardımcı olacak bir dijital asistan tasarlamak
 ## Projenin Hedefleri:
 * V1.0 Akıllı Menü
